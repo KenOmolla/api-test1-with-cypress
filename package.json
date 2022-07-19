@@ -1,0 +1,24 @@
+{
+  "name": "api-test1-with-cypress",
+  "version": "1.0.0",
+  "description": "Initial API testing using Cypress",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "D:/CypressTests/api-test1-with-cypress/node_modules/.bin/cypress open",
+    "cypress:run": "D:/CypressTests/api-test1-with-cypress/node_modules/.bin/cypress run --spec D:/CypressTests/api-test1-with-cypress/cypress/e2e/getProducts.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KenOmolla/api-test1-with-cypress.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KenOmolla/api-test1-with-cypress/issues"
+  },
+  "homepage": "https://github.com/KenOmolla/api-test1-with-cypress#readme",
+  "devDependencies": {
+    "cypress": "^10.3.0"
+  }
+}
