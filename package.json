@@ -19,6 +19,7 @@
   },
   "homepage": "https://github.com/KenOmolla/api-test1-with-cypress#readme",
   "devDependencies": {
-    "cypress": "^10.3.0"
+    "cypress": "^10.3.0",
+    "faker": "^6.6.6"
   }
 }
